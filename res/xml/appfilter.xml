@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <scale factor="1.1" />
+
+    <!-- Calendar -->
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calender" />
+    
+    <!-- Camera -->
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera" />
+    <item component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera" />
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="camera" />
+    
+    <!-- GMail -->
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+    
+    <!-- Google Plus -->
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}" drawable="gplus" />
+    
+    <!-- Hangouts -->
+    <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts" />
+    
+    <!-- Maps -->
+    <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
+    
+    <!-- Music -->
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
+    
+    <!-- Photos -->
+    <item component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}" drawable="photos" />    
+    
+    <!-- Play Store -->
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="playstore" />
+    
+    <!-- Youtube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
+    
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project Hera Icons</string>
+    
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">false</bool>
+    
+    <string-array name="icon_pack" translatable="false">
+        <item>calender</item>
+        <item>camera</item>
+        <item>gmail</item>
+        <item>gplus</item>
+        <item>hangouts</item>
+        <item>maps</item>
+        <item>music</item>
+        <item>photos</item>
+        <item>playstore</item>
+        <item>youtube</item>
+    </string-array>
+
+</resources>
