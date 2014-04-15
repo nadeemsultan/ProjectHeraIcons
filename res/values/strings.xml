@@ -7,13 +7,21 @@
     <bool name="config_apexskin">false</bool>
     
     <string-array name="icon_pack" translatable="false">
+        <item>books</item>
         <item>calender</item>
         <item>camera</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>games</item>
         <item>gmail</item>
         <item>gplus</item>
         <item>hangouts</item>
+        <item>keep</item>
         <item>maps</item>
+        <item>movies</item>
         <item>music</item>
+        <item>newsstand</item>
+        <item>phone</item>
         <item>photos</item>
         <item>playstore</item>
         <item>youtube</item>

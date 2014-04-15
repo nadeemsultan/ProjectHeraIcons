@@ -18,17 +18,25 @@ public final class R {
         public static final int config_iconpack=0x7f050000;
     }
     public static final class drawable {
-        public static final int calender=0x7f020000;
-        public static final int camera=0x7f020001;
-        public static final int gmail=0x7f020002;
-        public static final int gplus=0x7f020003;
-        public static final int hangouts=0x7f020004;
-        public static final int ic_launcher=0x7f020005;
-        public static final int maps=0x7f020006;
-        public static final int music=0x7f020007;
-        public static final int photos=0x7f020008;
-        public static final int playstore=0x7f020009;
-        public static final int youtube=0x7f02000a;
+        public static final int books=0x7f020000;
+        public static final int calender=0x7f020001;
+        public static final int camera=0x7f020002;
+        public static final int chrome=0x7f020003;
+        public static final int contacts=0x7f020004;
+        public static final int games=0x7f020005;
+        public static final int gmail=0x7f020006;
+        public static final int gplus=0x7f020007;
+        public static final int hangouts=0x7f020008;
+        public static final int ic_launcher=0x7f020009;
+        public static final int keep=0x7f02000a;
+        public static final int maps=0x7f02000b;
+        public static final int movies=0x7f02000c;
+        public static final int music=0x7f02000d;
+        public static final int newsstand=0x7f02000e;
+        public static final int phone=0x7f02000f;
+        public static final int photos=0x7f020010;
+        public static final int playstore=0x7f020011;
+        public static final int youtube=0x7f020012;
     }
     public static final class string {
         public static final int app_name=0x7f040000;
