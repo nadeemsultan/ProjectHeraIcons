@@ -45,8 +45,8 @@
     <!-- Music -->
     <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="music" />
     
-    <!-- Newsstand
-    <item component="ComponentInfo{}" drawable="newsstand" /> -->
+    <!-- Newsstand -->
+    <item component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}" drawable="newsstand" />
     
     <!-- Phone -->
     <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="phone" />
